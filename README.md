@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @onlybugaboo
+- 👀 I'm making a Gen. IV Pokemon ROM Hack called [REVOKED]
+- 🌱 I’m currently learning how to code using python
+- 💞️ I’m looking to collaborate on my Gen. IV ROM 
+- 📫 E-Mail: pkfiresa@gmail.com
